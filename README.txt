@@ -72,5 +72,5 @@ __init__.py 是 Python 包初始化文件，请保留。
 自定义 --checkpoint-dir，或修改水轮完整流程的 --output-dir，会改变权重
 查找位置，需在相应目录提供兼容权重。
 
-程序运行后还可能在 outputs 中生成图片、MATLAB 数据、训练记录和新权重。
+程序运行后在 outputs 中会生成图片、MATLAB 数据、训练记录和新权重。
 
